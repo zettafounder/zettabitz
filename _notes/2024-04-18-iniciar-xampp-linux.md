@@ -1,6 +1,7 @@
 ---
-layout: note
+layout: post
 title: "Iniciar XAMPP en Linux"
+author: Zetta Founder
 date: 2024-04-18
 ---
 

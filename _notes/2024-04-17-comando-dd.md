@@ -1,6 +1,7 @@
 ---
-layout: note
+layout: post
 title: "Crea una USB booteable de Linux usando el comando dd"
+author: Zetta Founder
 date: 2024-04-17
 ---
 

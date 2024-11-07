@@ -1,6 +1,7 @@
 ---
-layout: note
+layout: post
 title: "Sincronizar la hora en Linux"
+author: Zetta Founder
 date: 2024-04-17
 ---
 

@@ -1,6 +1,7 @@
 ---
-layout: note
+layout: post
 title: "Flashear custom rom en redmi 7a"
+author: Zetta Founder
 date: 2024-04-19
 ---
 

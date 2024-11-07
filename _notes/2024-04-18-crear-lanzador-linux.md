@@ -1,6 +1,7 @@
 ---
-layout: note
+layout: post
 title: "Añadir lanzadores al menu de aplicaciones de GNU/Linux"
+author: Zetta Founder
 date: 2024-04-18
 ---
 

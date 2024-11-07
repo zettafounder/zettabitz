@@ -1,6 +1,7 @@
 ---
-layout: note
+layout: post
 title: "Comandos básicos apt Debian"
+author: Zetta Founder
 date: 2024-04-19
 ---
 

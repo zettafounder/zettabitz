@@ -1,6 +1,7 @@
 ---
-layout: note
+layout: post
 title: "Navegación y atajos VIM"
+author: Zetta Founder
 date: 2024-04-19
 ---
 

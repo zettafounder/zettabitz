@@ -1,6 +1,7 @@
 ---
-layout: note
+layout: post
 title: "Saltar selector de S.O. GRUB"
+author: Zetta Founder
 date: 2024-04-19
 ---
 

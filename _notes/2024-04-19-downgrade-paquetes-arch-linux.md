@@ -1,6 +1,7 @@
 ---
-layout: note
+layout: post
 title: "Desactualizar paquetes en Arch Linux"
+author: Zetta Founder
 date: 2024-04-19
 ---
 

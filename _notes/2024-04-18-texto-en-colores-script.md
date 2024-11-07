@@ -1,6 +1,7 @@
 ---
-layout: note
+layout: post
 title: "Texto de colores en un Script para Linux"
+author: Zetta Founder
 date: 2024-04-18
 ---
 
