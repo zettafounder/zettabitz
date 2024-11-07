@@ -20,7 +20,7 @@ nano ~/.bashrc
 #añadimos la linea `neofetch` al final del archivo (ver imagen siguiente)
 ```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2d649050-51c0-44ef-aba5-a9611375d6a2/bc5942ca-2aa8-4540-a1fe-5b23c4df970c/Untitled.png)
+![img](https://i.ibb.co/N7Jg6z7/image.png)
 ![Untitled](https://prnt.sc/32EKxoXBjIlN)
 
 ```bash
