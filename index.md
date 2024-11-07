@@ -5,7 +5,7 @@
 <ul>
   {% for post in site.android %}
     <li>
-      <h3><a href="zettabitz/{{ post.url }}">{{ post.title }}</a></h3>
+      <h3><a href=":baseurl{{ post.url }}">{{ post.title }}</a></h3>
     </li>
   {% endfor %}
 </ul>
