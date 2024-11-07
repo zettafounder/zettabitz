@@ -1,8 +1,6 @@
 ---
 layout: page
 ---
-
-## Notas
 <ul>
   {% for note in site.notes %}
     <li>
