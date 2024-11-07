@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Diccionario en C++"
+author: Zetta Founder
 date: 2022-01-06
 ---
 
