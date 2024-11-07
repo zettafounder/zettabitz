@@ -4,9 +4,6 @@ description: Tecnología y cosas de la vida.
 youtube_username: "@ZettaBitz"
 email: jesusperalta@email.com
 
-minima:
-  date_format: "%b %-d, %Y"
-
 collections:
   notes: 
     output: true
