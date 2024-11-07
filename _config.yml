@@ -2,7 +2,11 @@ theme: minima
 title: Zetta Bitz
 description: Tecnología y cosas de la vida.
 youtube_username: "@ZettaBitz"
-mastodon: 
+mastodon: "https://mstdn.mx/@jpz"
+mastodon_username: "https://mstdn.mx/@jpz"
+mastodon_url: "https://mstdn.mx/@jpz"
+mastodon_user_url: "https://mstdn.mx/@jpz"
+mastodon_userurl: "https://mstdn.mx/@jpz"
 email: jesusperalta@email.com
 
 minima:
