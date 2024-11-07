@@ -1,5 +1,3 @@
-# Zetta Bitz Notes
-
 <ul>
   {% for note in site.notes %}
     <li>
