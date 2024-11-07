@@ -4,7 +4,7 @@ title: "Diccionario en C++."
 date: 2022-01-06
 ---
 
-Código en GitHub: https://github.com/zettafounder/diccionario-cpp/blob/main/diccionario.cpp
+Código en GitHub: [https://github.com/zettafounder/diccionario-cpp/blob/main/diccionario.cpp](https://github.com/zettafounder/diccionario-cpp/blob/main/diccionario.cpp)
 
 ## Código
 
