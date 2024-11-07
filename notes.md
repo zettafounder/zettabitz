@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notes
+title: Notas
 ---
 <ul>
   {% for note in site.notes %}
