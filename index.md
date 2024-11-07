@@ -5,7 +5,7 @@
 <ul>
   {% for post in site.android %}
     <li>
-      <h2>{{ post.tittle }}</h2>
+      <h2>{{ post.title }}</h2>
     </li>
   {% endfor %}
 </ul>
