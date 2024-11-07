@@ -3,7 +3,7 @@ layout: post
 author: Zetta Founder
 title: "Programas y software que utilizo"
 tags: blog
-date: 2024-06-15
+datee: 2024-06-15
 ---
 En esta entrada voy a compartir con ustedes el software que suelo utilizar.
 
