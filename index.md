@@ -3,9 +3,9 @@
 <h2>Android</h2>
 
 <ul>
-  {% for post in site.android %}
+  {% for note in notes.android %}
     <li>
-      <h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
+      <h3><a href="{{ note.url }}">{{ note.title }}</a></h3>
     </li>
   {% endfor %}
 </ul>

@@ -1,14 +1,7 @@
 theme: jekyll-theme-minimal
 title: Zetta Bitz
-baseurl: https://zettafounder.github.io/zettabitz
-email: jesusperalta@email.com
 description: Tecnología y cosas de la vida.
-youtube_username: ZettaBitz
 
 collections:
-  programacion: 
-    output: true
-  gnu-linux:
-    output: true
-  android:
+  notes: 
     output: true
