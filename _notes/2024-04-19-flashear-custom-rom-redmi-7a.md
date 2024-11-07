@@ -3,7 +3,6 @@ layout: note
 title: "Flashear custom rom en redmi 7a"
 date: 2024-04-19
 ---
-# Flashear custom rom en redmi 7a
 
 ## Metodo 1
 
