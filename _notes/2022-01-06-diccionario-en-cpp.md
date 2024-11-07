@@ -3,6 +3,7 @@ layout: post
 title: "Diccionario en C++"
 author: Zetta Founder
 date: 2022-01-06
+tags: programacion
 ---
 
 Código en GitHub: [https://github.com/zettafounder/diccionario-cpp/blob/main/diccionario.cpp](https://github.com/zettafounder/diccionario-cpp/blob/main/diccionario.cpp)
