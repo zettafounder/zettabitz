@@ -3,6 +3,7 @@ layout: post
 title: "Cambiar la resolución de pantalla desde la terminal en Linux"
 author: Zetta Founder
 date: 2024-04-18
+tags: gnu-linux
 ---
 
 Obtenemos las resoluciones disponibles de nuestro monitor ejecutado el comando `xrandr` y obtendremos la siguiente salida:

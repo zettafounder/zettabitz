@@ -3,6 +3,7 @@ layout: post
 title: "Crea una USB booteable de Linux usando el comando dd"
 author: Zetta Founder
 date: 2024-04-17
+tags: gnu-linux
 ---
 
 Una de las razones por las que he decidido utilizar este comando para crear mis USBs booteables fue que este se encuentra en cualquier sistema con Linux.

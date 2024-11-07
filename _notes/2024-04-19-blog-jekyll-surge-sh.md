@@ -3,6 +3,7 @@ layout: post
 title: "Crear un blog con Jekyll y montarlo en Surge.sh"
 author: Zetta Founder
 date: 2024-04-19
+tags: programacion
 ---
 
 ## Instalar Surge.

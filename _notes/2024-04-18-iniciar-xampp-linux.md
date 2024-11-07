@@ -3,6 +3,7 @@ layout: post
 title: "Iniciar XAMPP en Linux"
 author: Zetta Founder
 date: 2024-04-18
+tags: gnu-linux
 ---
 
 Para iniciar XAMPP simplemente ejecuta este comando:

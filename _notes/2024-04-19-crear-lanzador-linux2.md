@@ -3,6 +3,7 @@ layout: post
 title: "Crear lanzador en GNU/Linux"
 author: Zetta Founder
 date: 2024-04-19
+tags: gnu-linux
 ---
 
 Nos ubicamos en el directorio `/usr/share/applications` para añadir un lanzador en todo el sistema y en el directorio `/home/username/.local/share/applicatios/` para añadirlo solo al menú de un usuario en específico.

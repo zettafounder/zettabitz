@@ -3,6 +3,7 @@ layout: post
 title: "Auto-click con Python usando pyautogui"
 author: Zetta Founder
 date: 2022-01-14
+tags: programacion
 ---
 
 Pequeño tutorial de como usar la libreria "pyautogui" que sirve para automatizar el puntero de nuestro PC.

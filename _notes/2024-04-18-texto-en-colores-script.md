@@ -3,6 +3,7 @@ layout: post
 title: "Texto de colores en un Script para Linux"
 author: Zetta Founder
 date: 2024-04-18
+tags: gnu-linux
 ---
 
 Crea un script en bash colorido con este formato.

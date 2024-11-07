@@ -3,6 +3,7 @@ layout: post
 title: "Cambiar el volumen desde la terminal"
 author: Zetta Founder
 date: 2024-04-19
+tags: gnu-linux
 ---
 
 Subir el volumen 10%: amixer sset Master 10%+
