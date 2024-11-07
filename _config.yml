@@ -3,6 +3,9 @@ title: Zetta Bitz
 description: Tecnología y cosas de la vida.
 youtube_username: "@ZettaBitz"
 email: jesusperalta@email.com
+mastodon:
+- username: jpz
+  instance: mstdn.mx
 
 collections:
   notes: 
