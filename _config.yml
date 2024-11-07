@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Zetta Bitz
+baseurl: /zettabitz
 email: jesusperalta@email.com
 description: Tecnología y cosas de la vida.
 youtube_username: ZettaBitz
