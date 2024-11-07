@@ -7,8 +7,8 @@ title: Android
 <ul>
   {% for post in site.android %}
     <li>
-      <h2>{{ post.tittle }}</h2>
-      <h3>{{ post.descripcion }}</h3>
+      <h2>{{ post.title }}</h2>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     </li>
   {% endfor %}
 </ul>
