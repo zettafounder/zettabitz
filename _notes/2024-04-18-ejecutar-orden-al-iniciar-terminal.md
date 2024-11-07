@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ejecutar una orden al iniciar la terminal"
-author: Zetta Founder
+author: Jesús Peralta
 date: 2024-04-18
 tags: gnu-linux
 ---

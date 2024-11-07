@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cambiar la resolución de pantalla desde la terminal en Linux"
-author: Zetta Founder
+author: Jesús Peralta
 date: 2024-04-18
 tags: gnu-linux
 ---

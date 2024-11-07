@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Zetta Founder
+author: Jesús Peralta
 title: "Programas y software que utilizo"
 tags: blog
 ---

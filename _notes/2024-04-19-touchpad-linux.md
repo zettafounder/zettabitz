@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Activar touchpad en i3wm"
-author: Zetta Founder
+author: Jesús Peralta
 date: 2024-04-19
 tags: gnu-linux
 ---

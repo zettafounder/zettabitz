@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Zetta Founder
+author: Jesús Peralta
 title: "Mi top 3 de distros GNU/Linux"
 tags: blog
 ---

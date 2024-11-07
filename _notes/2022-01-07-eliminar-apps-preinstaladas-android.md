@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Elimina el bloatware de tu Android sin ser root"
-author: Zetta Founder
+author: Jesús Peralta
 date: 2022-01-07
 tags: android
 ---

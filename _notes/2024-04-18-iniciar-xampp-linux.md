@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Iniciar XAMPP en Linux"
-author: Zetta Founder
+author: Jesús Peralta
 date: 2024-04-18
 tags: gnu-linux
 ---

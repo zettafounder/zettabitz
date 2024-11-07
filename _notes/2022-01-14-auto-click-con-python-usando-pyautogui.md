@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Auto-click con Python usando pyautogui"
-author: Zetta Founder
+author: Jesús Peralta
 date: 2022-01-14
 tags: programacion
 ---

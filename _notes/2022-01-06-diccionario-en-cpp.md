@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diccionario en C++"
-author: Zetta Founder
+author: Jesús Peralta
 date: 2022-01-06
 tags: programacion
 ---

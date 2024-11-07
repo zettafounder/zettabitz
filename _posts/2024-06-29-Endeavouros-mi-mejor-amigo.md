@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Zetta Founder
+author: Jesús Peralta
 title: "EndeavourOS mi mejor amigo"
 tags: blog
 ---

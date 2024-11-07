@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Zetta Founder
+author: Jesús Peralta
 title: "Mi camino en Bitcoin"
 tags: blog
 ---

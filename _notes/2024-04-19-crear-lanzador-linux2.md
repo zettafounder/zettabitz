@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crear lanzador en GNU/Linux"
-author: Zetta Founder
+author: Jesús Peralta
 date: 2024-04-19
 tags: gnu-linux
 ---
