@@ -55,6 +55,7 @@ date: 2024-04-19
 | y | Copiar lo seleccionado |
 
 ## Comandos
+
 | Comando | Descripción |
 | --- | --- |
 | :q | Salir de Vim |
