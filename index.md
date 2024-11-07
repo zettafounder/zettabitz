@@ -1,7 +1,5 @@
 # Zetta Bitz Notes
 
-<h2>Android</h2>
-
 <ul>
   {% for note in notes.android %}
     <li>
