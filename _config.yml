@@ -4,8 +4,6 @@ email: jesusperalta@email.com
 description: Tecnología y cosas de la vida.
 youtube_username: ZettaBitz
 
-collections_dir: colecciones
-
 collections:
   programacion: 
     output: true
