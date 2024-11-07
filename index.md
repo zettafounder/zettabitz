@@ -1,12 +1,11 @@
 # Zetta Bitz Notes
 
-<h1>Android</h1>
+<h2>Android</h2>
 
 <ul>
   {% for post in site.android %}
     <li>
       <h2>{{ post.tittle }}</h2>
-      <h3>{{ post.descripcion }}</h3>
     </li>
   {% endfor %}
 </ul>

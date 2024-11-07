@@ -2,10 +2,6 @@
 layout: post
 title: "Elimina el bloatware de tu Android sin ser root."
 date: 2022-01-07
-baner: https://unsplash.com/photos/TbLdLyigPj4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MTl8fGFuZHJvaWR8ZXN8MHx8fHwxNjU2NjY4NjQ2&force=true&w=640
-descripcion: Elimina las Apps que trae tu android "por defecto" sin root. Esto gracias a una herramienta que...
-category: 
-permalink: /:collection/:categories/:title
 ---
 
 Elimina las Apps que trae tu android "por defecto" sin root. Esto gracias a una herramienta que utilizan los desarrolladores.
