@@ -1,6 +1,6 @@
 ---
 layout: note
-title: "Diccionario en C++."
+title: "Diccionario en C++"
 date: 2022-01-06
 ---
 

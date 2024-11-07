@@ -1,6 +1,6 @@
 ---
 layout: note
-title: "Auto-click con Python usando pyautogui."
+title: "Auto-click con Python usando pyautogui"
 date: 2022-01-14
 ---
 
