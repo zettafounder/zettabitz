@@ -15,7 +15,7 @@ title: Blog
         <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
           {{ mdate | date: date_format }}
         </time>
-      {%- endif -%} - {{ post.datee }} - <a href=".{{ post.url }}">{{ post.title }}</a></h4>
+      {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></h4>
     </li>
   {% endfor %}
 </ul>
