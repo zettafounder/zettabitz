@@ -3,6 +3,7 @@ layout: post
 author: Zetta Founder
 title: "EndeavourOS mi mejor amigo"
 tags: blog
+date: 2024-06-29
 ---
 Quería dedicarle una entrada entera a esta distro, porque literalmente, sin ella yo no estaría en linux.
 

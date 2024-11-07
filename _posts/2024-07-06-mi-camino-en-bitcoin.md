@@ -3,6 +3,7 @@ layout: post
 author: Zetta Founder
 title: "Mi camino en Bitcoin"
 tags: blog
+date: 2024-07-06
 ---
 Esta semana quiero contarles sobre bitcoin, este no es un instrumento de inversión o un esquema ponzi. Es una base de datos como la que usan los bancos, donde se registran las transacciones que se hacen entre billeteras y guarda el saldo de cada una. A diferencia de una base de datos bancaria esta se caracteriza por su seguridad y verificabilidad ya que utiliza tecnología blockchain y un algoritmo para verificar las transacciones llamado proof of work.
 

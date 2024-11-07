@@ -3,6 +3,7 @@ layout: post
 author: Zetta Founder
 title: "Mi top 3 de distros GNU/Linux"
 tags: blog
+date: 2024-06-22
 ---
 Este es mi top de distribuciones de linux según lo que a mí me ha servido.
 
