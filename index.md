@@ -19,3 +19,4 @@ title: Blog
     </li>
   {% endfor %}
 </ul>
+<a rel="me" href="https://mstdn.mx/@jpz"></a>
