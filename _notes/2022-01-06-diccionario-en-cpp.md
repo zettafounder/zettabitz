@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: post
 title: "Diccionario en C++"
 date: 2022-01-06
 ---
