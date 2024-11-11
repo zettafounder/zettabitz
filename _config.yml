@@ -7,6 +7,9 @@ mastodon:
 - username: jpz
   instance: mstdn.mx
 
+minima:
+  skin: auto
+
 collections:
   notes: 
     output: true
