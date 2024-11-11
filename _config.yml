@@ -8,7 +8,7 @@ mastodon:
   instance: mstdn.mx
 
 minima:
-  skin: auto
+  skin: dark
 
 collections:
   notes: 
