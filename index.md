@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 ---
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 <ul>
   {% for post in site.posts %}
     <li>
