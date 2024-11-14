@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: post
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -36,8 +36,6 @@ layout: base
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
-
-XD
 
 <div class="PageNavigation">
   {% if page.previous.url %}
