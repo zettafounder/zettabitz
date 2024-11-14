@@ -45,6 +45,6 @@ layout: base
   {% endif %}
 
   {% if page.next.url %}
-    Siguiente post: <a align="center" class="next" href="../../..{{page.next.url}}">{{page.next.title}}</a>
+    <p align="center">Siguiente post: <a class="next" href="../../..{{page.next.url}}">{{page.next.title}}</a></p>
   {% endif %}
 </div>
