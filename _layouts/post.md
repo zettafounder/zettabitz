@@ -43,8 +43,8 @@ layout: base
   {% if page.previous.url %}
     Post anterior: <a class="prev" href="../../..{{page.previous.url}}">{{page.previous.title}}</a>
   {% endif %}
-  
+
   {% if page.next.url %}
-    Siguiente post: <a class="next" href="../../..{{page.next.url}}">{{page.next.title}}</a>
+    Siguiente post: <a style:"text-align: right;" class="next" href="../../..{{page.next.url}}">{{page.next.title}}</a>
   {% endif %}
 </div>
