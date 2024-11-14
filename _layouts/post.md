@@ -41,7 +41,7 @@ layout: base
 
 <div class="PageNavigation">
   {% if page.previous.url %}
-    <a class="prev" href="../../..{{page.previous.url}}">&laquo; {{page.previous.title}}</a><br>
+    <p><a class="prev" href="../../..{{page.previous.url}}">&laquo; {{page.previous.title}}</a></p>
   {% endif %}
 
   {% if page.next.url %}
