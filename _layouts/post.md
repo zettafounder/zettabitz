@@ -37,7 +37,7 @@ layout: base
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
-<hr>
+<hr><br>
 
 <div class="PageNavigation">
   {% if page.previous.url %}
@@ -45,6 +45,6 @@ layout: base
   {% endif %}
 
   {% if page.next.url %}
-    Siguiente post: <a style="text-align: right;" class="next" href="../../..{{page.next.url}}">{{page.next.title}}</a>
+    <br>Siguiente post: <a class="next" href="../../..{{page.next.url}}">{{page.next.title}}</a>
   {% endif %}
 </div>
