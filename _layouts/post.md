@@ -37,10 +37,13 @@ layout: base
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
+<hr>
+
 <div class="PageNavigation">
   {% if page.previous.url %}
     Post anterior: <a class="prev" href="../../..{{page.previous.url}}">{{page.previous.title}}</a>
   {% endif %}
+  
   {% if page.next.url %}
     Siguiente post: <a class="next" href="../../..{{page.next.url}}">{{page.next.title}}</a>
   {% endif %}
