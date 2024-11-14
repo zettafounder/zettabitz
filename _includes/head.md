@@ -11,4 +11,24 @@
 
   {%- include custom-head.html -%}
   
+  <style>
+        .PageNavigation {
+        font-size: 14px;
+        display: block;
+        width: auto;
+        overflow: hidden;
+        }
+
+        .PageNavigation a {
+        display: block;
+        width: 50%;
+        float: left;
+        margin: 1em 0;
+        }
+
+        .PageNavigation .next {
+        text-align: right;
+        }
+  </style>
+  
 </head>
