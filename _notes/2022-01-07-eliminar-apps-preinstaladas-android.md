@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: "Elimina el bloatware de tu Android sin ser root"
 author: Jesús Peralta
 date: 2022-01-07

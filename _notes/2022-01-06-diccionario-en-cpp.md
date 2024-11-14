@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: "Diccionario en C++"
 author: Jesús Peralta
 date: 2022-01-06
