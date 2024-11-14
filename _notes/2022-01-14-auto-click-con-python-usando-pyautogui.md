@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: "Auto-click con Python usando pyautogui"
 author: Jesús Peralta
 date: 2022-01-14

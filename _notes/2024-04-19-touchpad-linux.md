@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: "Activar touchpad en i3wm"
 author: Jesús Peralta
 date: 2024-04-19

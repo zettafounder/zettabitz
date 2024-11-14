@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: "Crear un blog con Jekyll y montarlo en Surge.sh"
 author: Jesús Peralta
 date: 2024-04-19

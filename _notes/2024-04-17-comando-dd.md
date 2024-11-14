@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: "Crea una USB booteable de Linux usando el comando dd"
 author: Jesús Peralta
 date: 2024-04-17

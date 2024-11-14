@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: "Cambiar el volumen desde la terminal"
 author: Jesús Peralta
 date: 2024-04-19

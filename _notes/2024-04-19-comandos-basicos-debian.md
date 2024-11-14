@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: "Comandos básicos apt Debian"
 author: Jesús Peralta
 date: 2024-04-19

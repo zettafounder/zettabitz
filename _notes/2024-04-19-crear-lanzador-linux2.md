@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: "Crear lanzador en GNU/Linux"
 author: Jesús Peralta
 date: 2024-04-19

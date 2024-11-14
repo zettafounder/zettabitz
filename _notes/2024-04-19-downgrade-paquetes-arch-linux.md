@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: "Desactualizar paquetes en Arch Linux"
 author: Jesús Peralta
 date: 2024-04-19

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: "Ejecutar una orden al iniciar la terminal"
 author: Jesús Peralta
 date: 2024-04-18

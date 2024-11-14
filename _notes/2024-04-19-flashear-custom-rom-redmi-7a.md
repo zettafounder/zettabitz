@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: "Flashear custom rom en redmi 7a"
 author: Jesús Peralta
 date: 2024-04-19

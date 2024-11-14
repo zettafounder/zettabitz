@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: "Saltar selector de S.O. GRUB"
 author: Jesús Peralta
 date: 2024-04-19

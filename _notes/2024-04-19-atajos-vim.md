@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: "Navegación y atajos VIM"
 author: Jesús Peralta
 date: 2024-04-19
