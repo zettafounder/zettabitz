@@ -19,3 +19,4 @@ title: Blog
 {% endfor %}
 
 <a rel="me" href="https://mstdn.mx/@jpz"></a>
+<a rel="me" href="https://zettafounder.github.io/zettabitz/feed.xml">RSS</a>
