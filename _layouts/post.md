@@ -41,10 +41,10 @@ layout: base
 
 <div class="PageNavigation">
   {% if page.previous.url %}
-    Post anterior: <a class="prev" href="../../..{{page.previous.url}}">{{page.previous.title}}</a><br>
+    <a class="prev" href="../../..{{page.previous.url}}">&laquo; {{page.previous.title}}</a><br>
   {% endif %}
 
   {% if page.next.url %}
-    <p align="center">Siguiente post: <a class="next" href="../../..{{page.next.url}}">{{page.next.title}}</a></p>
+    <p align="right"><a class="next" href="../../..{{page.next.url}}">{{page.next.title}} &raquo;</a></p>
   {% endif %}
 </div>
