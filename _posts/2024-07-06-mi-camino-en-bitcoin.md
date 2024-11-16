@@ -36,7 +36,7 @@ Actualmente solo uso bitcoin para guardar mis ahorros, hacer transacciones priva
 
 **Si te sobra un poco de bitcoin (o mucho), considera  dejarme una propida :D**
 
-<a href="https://coindrop.to/zettafounder" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to me"></img></a>
+<a href="https://coindrop.to/zettafounder" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to me"></a>
 
 O si prefieres Lightning Network
 
