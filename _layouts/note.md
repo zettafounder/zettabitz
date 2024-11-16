@@ -39,4 +39,4 @@ layout: base
 
 <hr><br>
 
-<a rel="me" href="./../notes.html">&laquo; Todos las notas</a>
+<p align="center"><a rel="me" href="./../notes.html">&laquo; Todas las notas &raquo;</a></p>
