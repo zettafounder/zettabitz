@@ -33,3 +33,17 @@ Empecé a seguir cuentas en twitter sobre bitcoin y me hice una cuenta en stacke
 Fueron años de mucho aprendizaje, compre y vendí bitcoin por medio de un bot de Telegram, conocí LN Network, Liquid, monte mi propio nodo y conocí sobre otras tecnologías como nostr.
 
 Actualmente solo uso bitcoin para guardar mis ahorros, hacer transacciones privadas de vez en cuando y experimentar con la tecnología.
+
+**Si te sobra un poco de bitcoin (o mucho), considera  dejarme una propida :D**
+
+<a href="https://coindrop.to/zettafounder" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to me"></img></a>
+
+O si prefieres Lightning Network
+
+<lightning-widget 
+  name="Jesús Peralta" 
+  accent="#000000" 
+  to="zettafounder@stacker.news" 
+  image="https://nostrcheck.me/media/e140a3ea5b9434a8e853c9264bdc10a5b85c765114b37cbf4850f520c0e40975/783d7f557b8e84d48dcf14e83fecb99c8ff64cc4cd671c55b2fa03264e18ea7f.webp" 
+/>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
