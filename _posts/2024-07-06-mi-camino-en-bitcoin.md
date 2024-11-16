@@ -34,11 +34,7 @@ Fueron años de mucho aprendizaje, compre y vendí bitcoin por medio de un bot d
 
 Actualmente solo uso bitcoin para guardar mis ahorros, hacer transacciones privadas de vez en cuando y experimentar con la tecnología.
 
-**Si te sobra un poco de bitcoin (o mucho), considera  dejarme una propida :D**
-
-<a href="https://coindrop.to/zettafounder" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to me"></a>
-
-O si prefieres Lightning Network
+**Si te sobra un poco de bitcoin (o mucho), considera  dejarme una propina :D**
 
 <lightning-widget 
   name="Jesús Peralta" 
