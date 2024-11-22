@@ -6,7 +6,7 @@ title: Notas
 <ul>
   {% for note in i_notes %}
     <li>
-      <h4><a href=".{{ note.url }}">{{ note.title }}</a></h4>
+      <p><a href=".{{ note.url }}">{{ note.title }}</a></p>
     </li>
   {% endfor %}
 </ul>
