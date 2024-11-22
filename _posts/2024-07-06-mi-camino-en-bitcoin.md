@@ -4,17 +4,7 @@ author: Jesús Peralta
 title: "Mi camino en Bitcoin"
 tags: blog
 ---
-![1](./assets/images/bitcoin-banner.jpg)
-![2](../assets/images/bitcoin-banner.jpg)
-![3](./../assets/images/bitcoin-banner.jpg)
-![4](../../assets/images/bitcoin-banner.jpg)
-![5](./../../assets/images/bitcoin-banner.jpg)
-![6](../../../assets/images/bitcoin-banner.jpg)
-![7](./../../../assets/images/bitcoin-banner.jpg)
-![8](../../../../assets/images/bitcoin-banner.jpg)
-![9](./../../../../assets/images/bitcoin-banner.jpg)
-![10](./../../../../assets/images/bitcoin-banner.jpg)
-![11](../../../../../assets/images/bitcoin-banner.jpg)
+![bitcoin-banner.jpg](../../../assets/images/bitcoin-banner.jpg)
 
 Esta semana quiero contarles sobre bitcoin, este no es un instrumento de inversión o un esquema ponzi. Es una base de datos como la que usan los bancos, donde se registran las transacciones que se hacen entre billeteras y guarda el saldo de cada una. A diferencia de una base de datos bancaria esta se caracteriza por su seguridad y verificabilidad ya que utiliza tecnología blockchain y un algoritmo para verificar las transacciones llamado proof of work.
 
