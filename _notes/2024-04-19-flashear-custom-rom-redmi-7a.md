@@ -6,7 +6,27 @@ date: 2024-04-19
 tags: android
 ---
 
-## Metodo 1
+**Requisitos**
+
+- Bootloader desbloqueado
+- ABD y Fasboot descargado
+- Custom recovery instalado
+- Imagen custom rom
+- GApps descargadas opcional
+- Custom kernel opcional
+
+**Pasos**
+
+1. Iniciar recovery 'vol up' + 'power'
+2. Format data y vanced wipe (todo menos SD y OTG)
+3. Flash ROM y GApps (opcional gapps)
+4. Format data
+5. Flash custom kernel
+6. Reiniciar sistema
+
+## Referencias
+
+**Metodo 1**
 
 Una vez tienes el custom recovery (y flasheaste el vbmeta para que no se quite), haz backup de lo que tengas importante porque borraras todo.
 
@@ -17,7 +37,7 @@ Importante tener telegram abierto en otro lado por si no encuentras una opción 
 
 Cuando digo de instalar es ir a la pantalla principal del recovery, tocar instalar y seleccionar los archivos zip.
 
-## Metodo 2
+*Metodo 2**
 
 [Reenviado de Rose]
 📌 Instalar Custom ROM
@@ -46,7 +66,7 @@ wipe > format data > escribe yes
 
 📆 Actualizado 04-08-2021.
 
-## Metodo 3
+**Metodo 3**
 
 [Reenviado de Rose]
 Si ya has desbloqueado el bootloader e instalado un #recovery estos son los pasos:
