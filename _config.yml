@@ -1,10 +1,7 @@
 theme: minima
 title: Zetta Bitz
 youtube_username: "@ZettaBitz"
-email: jesusperalta@email.com
-mastodon:
-- username: jpz
-  instance: mstdn.mx
+email: zettafounder@proton.me
 
 collections:
   notes: 
