@@ -1,7 +1,7 @@
 ---
 layout: note
 title: "Navegación y atajos VIM"
-author: Jesús Peralta
+author: Zetta Founder
 date: 2024-04-19
 tags: programacion
 ---

@@ -1,7 +1,7 @@
 ---
 layout: note
 title: "Saltar selector de S.O. GRUB"
-author: Jesús Peralta
+author: Zetta Founder
 date: 2024-04-19
 tags: gnu-linux
 ---

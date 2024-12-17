@@ -1,7 +1,7 @@
 ---
 layout: note
 title: "Crear un blog con Jekyll y montarlo en Surge.sh"
-author: Jesús Peralta
+author: Zetta Founder
 date: 2024-04-19
 tags: programacion
 ---

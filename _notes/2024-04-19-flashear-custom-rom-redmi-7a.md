@@ -1,7 +1,7 @@
 ---
 layout: note
 title: "Flashear custom rom en redmi 7a"
-author: Jesús Peralta
+author: Zetta Founder
 date: 2024-04-19
 tags: android
 ---

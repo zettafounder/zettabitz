@@ -1,7 +1,7 @@
 ---
 layout: note
 title: "Sincronizar la hora en Linux"
-author: Jesús Peralta
+author: Zetta Founder
 date: 2024-04-17
 tags: gnu-linux
 ---

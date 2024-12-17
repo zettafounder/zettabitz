@@ -1,7 +1,7 @@
 ---
 layout: note
 title: "Texto de colores en un Script para Linux"
-author: Jesús Peralta
+author: Zetta Founder
 date: 2024-04-18
 tags: gnu-linux
 ---
