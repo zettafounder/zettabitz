@@ -48,4 +48,16 @@ layout: base
     <p align="right"><a class="next" href="../../..{{page.next.url}}">{{page.next.title}} &raquo;</a></p>
   {% endif %}
 </div>
+
+ <table>
+  <tr>
+    <td>{% if page.previous.url %}
+    <p><a class="prev" href="../../..{{page.previous.url}}">&laquo; {{page.previous.title}}</a></p>
+  {% endif %}</td>
+    <td>{% if page.next.url %}
+    <p align="right"><a class="next" href="../../..{{page.next.url}}">{{page.next.title}} &raquo;</a></p>
+  {% endif %}</td>
+  </tr>
+</table> 
+
 <p align="center"><a rel="me" href="https://zettafounder.github.io/zettabitz/">&laquo; Todos los posts &raquo;</a></p>
