@@ -1,3 +1,5 @@
+- name: Inicio
+  link: /index.md
 - name: Blog
   link: /blog.md
 - name: Notas
