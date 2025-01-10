@@ -2,7 +2,9 @@
 layout: index
 title: Inicio
 ---
+
 GNU/Linux | Bitcoin | Android
+
 ---
 
 {% for post in site.posts %}
