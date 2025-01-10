@@ -3,7 +3,7 @@ layout: index
 title: Inicio
 ---
 
-GNU/Linux | Bitcoin | Android
+> GNU/Linux / Bitcoin / Android
 
 ---
 
