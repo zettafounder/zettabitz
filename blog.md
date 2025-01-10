@@ -1,3 +1,7 @@
+---
+layout: page
+title: Blog
+---
 {% for post in site.posts %}
   <p>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -11,3 +15,5 @@
       </time>
     {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></p> 
 {% endfor %}
+
+<a rel="me" href="https://zettafounder.github.io/zettabitz/feed.xml">RSS</a>

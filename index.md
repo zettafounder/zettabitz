@@ -13,4 +13,3 @@ OS: EndeavourOS, Debian, Pop! OS
 Android: LineageOS
 
 
-<a rel="me" href="https://zettafounder.github.io/zettabitz/feed.xml">RSS</a>
