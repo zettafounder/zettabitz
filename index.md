@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Blog
+title: Inicio
 ---
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+GNU/Linux | Bitcoin | Android
+---
 
 {% for post in site.posts %}
   <p>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -18,5 +19,4 @@ title: Blog
     {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></p> 
 {% endfor %}
 
-<a rel="me" href="https://mstdn.mx/@jpz"></a>
 <a rel="me" href="https://zettafounder.github.io/zettabitz/feed.xml">RSS</a>
