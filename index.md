@@ -4,18 +4,17 @@ layout: index
 
 Usuario de **GNU/Linux**,  **Bitcoin**,  **Android**.
 
-YouTube: [**ZettaBitz**](https://youtube.com/%40ZettaBitz).
 YouTube:  <a href="https://youtube.com/%40ZettaBitz" target="_blank">**Zetta Bitz**</a>.
-
+<a href="" target="_blank">****</a>
 ---
 <br>
 ## Software que utilizo
 
-OS: [**EndeavourOS**](https://endeavouros.com), [**Debian**](https://www.debian.org), [**Pop! OS**](https://pop.system76.com), [**Tails**](https://tails.boum.org).
+OS: <a href="https://endeavouros.com" target="_blank">**EndeavourOS**</a>, <a href="https://www.debian.org" target="_blank">**Debian**</a>, <a href="https://pop.system76.com" target="_blank">**Pop! OS**</a>, <a href="https://tails.boum.org" target="_blank">**Tails**</a>.
 
-Android: [**LineageOS**](https://lineageos.org/).
+Android: <a href="https://lineageos.org" target="_blank">**LineageOS**</a>.
 
-Mensajería: [**Signal**](https://signal.org/), [**Session**](https://getsession.org/), [**SimpleX**](https://simplex.chat/), [**Briar**](https://briarproject.org/), [**Cwtch**](https://cwtch.im/), [**Telegram**](https://telegram.org), [**Wire**](https://wire.com), [**Threema**](https://threema.ch), [**Keybase**](https://keybase.io), [**Element**](https://element.io), [**Conversations**](https://conversations.im/).
+Mensajería: <a href="https://signal.org" target="_blank">**Signal**</a>, <a href="https://getsession.org" target="_blank">**Session**</a>, <a href="https://simplex.chat" target="_blank">**SimpleX**</a>, <a href="https://briarproject.org" target="_blank">**Briar**</a>, <a href="https://cwtch.im" target="_blank">**Cwtch**</a>, <a href="https://telegram.org" target="_blank">**Telegram**</a>, <a href="https://wire.com" target="_blank">**Wire**</a>, <a href="https://threema.ch" target="_blank">**Threema**</a>, <a href="https://keybase.io" target="_blank">**Keybase**</a>, <a href="https://element.io" target="_blank">**Element**</a>, <a href="https://conversations.im" target="_blank">**Conversations**</a>.
 
 Nube: [**Proton Drive**](https://proton.me), [**Nextcloud**](https://nextcloud.com/).
 
