@@ -10,3 +10,8 @@ title: Notas
     </li>
   {% endfor %}
 </ul>
+
+{% assign i_notes = site.notes | sort:"date" | reverse %}
+  {% for note in i_notes %}
+    <p>&raquo; <a href=".{{ note.url }}">{{ note.title }}</a></p>
+  {% endfor %}
