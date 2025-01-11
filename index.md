@@ -4,13 +4,13 @@ layout: index
 
 Usuario de **GNU/Linux**,  **Bitcoin**,  **Android**.
 
-YouTube: [**ZettaBitz**](https://youtube.com/%40ZettaBitz).
+YouTube: [**ZettaBitz**](https://youtube.com/%40ZettaBitz target="_blank").
 
 ---
 <br>
 ## Software que utilizo
 
-OS: [**EndeavourOS**](https://endeavouros.com/), [**Debian**](https://www.debian.org), [**Pop! OS**](https://pop.system76.com), [**Tails**](https://tails.boum.org).
+OS: [**EndeavourOS**]("https://endeavouros.com/" target="_blank"), [**Debian**](https://www.debian.org), [**Pop! OS**](https://pop.system76.com), [**Tails**](https://tails.boum.org).
 
 Android: [**LineageOS**](https://lineageos.org/).
 
