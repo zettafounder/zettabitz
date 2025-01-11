@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Zetta Founder
-title: "Apps de mensajeria... ¿privadas?"
+title: "Apps de mensajeria (privadas)"
 tags: blog
 ---
 
