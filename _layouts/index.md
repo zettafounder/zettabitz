@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: baseindex
 ---
 <article class="post">
 
