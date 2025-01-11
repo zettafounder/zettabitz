@@ -51,9 +51,9 @@ Otros: <a href="https://www.aimp.ru" target="_blank">**AIMP**</a>, <a href="http
 
 ## Te puede interesar
 
-[Crear USB booteable de linux usando el comando dd](https://zettafounder.github.io/zettabitz/notes/2024-04-17-comando-dd.html)
+[**Crear USB booteable de linux usando el comando dd**](https://zettafounder.github.io/zettabitz/notes/2024-04-17-comando-dd.html)
 
-[Elimina el bloatware de tu android con adb shell](https://zettafounder.github.io/zettabitz/notes/2022-01-07-eliminar-apps-preinstaladas-android.html)
+[**Elimina el bloatware de tu android con adb shell**](https://zettafounder.github.io/zettabitz/notes/2022-01-07-eliminar-apps-preinstaladas-android.html)
 
 ---
 <br>
@@ -71,7 +71,7 @@ Otros: <a href="https://www.aimp.ru" target="_blank">**AIMP**</a>, <a href="http
       <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
         {{ mdate | date: date_format }}
       </time>
-    {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></p> 
+    {%- endif -%} - <a href=".{{ post.url }}">**{{ post.title }}**</a></p> 
 {% endfor %}
 
 ---
