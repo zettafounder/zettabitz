@@ -5,7 +5,7 @@ layout: index
 Usuario de **GNU/Linux**,  **Bitcoin**,  **Android**.
 
 YouTube:  <a href="https://youtube.com/%40ZettaBitz" target="_blank">**Zetta Bitz**</a>.
-<a href="" target="_blank">****</a>
+
 ---
 <br>
 ## Software que utilizo
