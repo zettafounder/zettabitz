@@ -16,34 +16,34 @@ Android: <a href="https://lineageos.org" target="_blank">**LineageOS**</a>.
 
 Mensajería: <a href="https://signal.org" target="_blank">**Signal**</a>, <a href="https://getsession.org" target="_blank">**Session**</a>, <a href="https://simplex.chat" target="_blank">**SimpleX**</a>, <a href="https://briarproject.org" target="_blank">**Briar**</a>, <a href="https://cwtch.im" target="_blank">**Cwtch**</a>, <a href="https://telegram.org" target="_blank">**Telegram**</a>, <a href="https://wire.com" target="_blank">**Wire**</a>, <a href="https://threema.ch" target="_blank">**Threema**</a>, <a href="https://keybase.io" target="_blank">**Keybase**</a>, <a href="https://element.io" target="_blank">**Element**</a>, <a href="https://conversations.im" target="_blank">**Conversations**</a>.
 
-Nube: [**Proton Drive**](https://proton.me), [**Nextcloud**](https://nextcloud.com/).
+Nube: <a href="https://proton.me" target="_blank">**Proton Drive**</a>, <a href="https://nextcloud.com" target="_blank">**Nextcloud**</a>.
 
-Navegador web: [**Firefox**](https://www.mozilla.org/), [**Tor Browser**](https://www.torproject.org/).
+Navegador: <a href="https://www.mozilla.org" target="_blank">**Firefox**</a>, <a href="https://www.torproject.org" target="_blank">**Tor Browser**</a>.
 
-Buscador: [**DuckDuckGo**](https://duckduckgo.com).
+Buscador: <a href="https://duckduckgo.com" target="_blank">**DuckDuckGo**</a>.
 
-Bitcoin Wallets: [**Electrum**](https://electrum.org/), [**Green**](https://blockstream.com/green/), [**BlueWallet**](https://bluewallet.io/), [**Phoenix**](https://phoenix.acinq.co/), [**WalletOfSatoshi**](https://www.walletofsatoshi.com/).
+Bitcoin Wallets: <a href="https://electrum.org" target="_blank">**Electrum**</a>, <a href="https://blockstream.com/green" target="_blank">**Green**</a>, <a href="https://bluewallet.io" target="_blank">**BlueWallet**</a>, <a href="https://phoenix.acinq.co" target="_blank">**Phoenix**</a>, <a href="https://www.walletofsatoshi.com" target="_blank">**WalletOfSatoshi**</a>.
 
-Email: [**Proton Mail**](https://proton.me), [**Thunderbird**](https://www.thunderbird.net).
+Email: <a href="https://proton.me" target="_blank">**Proton Mail**</a>, <a href="https://www.thunderbird.net" target="_blank">**Thunderbird**</a>.
 
-VPN: [**Proton VPN**](https://proton.me).
+VPN: <a href="https://proton.me" target="_blank">**Proton VPN**</a>.
 
-Nostr: [**YakiHonne**](https://www.yakihonne.com/yakihonne-mobile-app).
+Nostr: <a href="https://www.yakihonne.com/yakihonne-mobile-app" target="_blank">**YakiHonne**</a>.
 
-Contraseñas: [**Aegis**](https://getaegis.app/), [**Proton Pass**](https://proton.me), [**KeePass**](https://keepass.info/download.html).
+Contraseñas: <a href="https://getaegis.app" target="_blank">**Aegis**</a>, <a href="https://proton.me" target="_blank">**Proton Pass**</a>, <a href="https://keepass.info/download.html" target="_blank">**KeePass**</a>.
 
-Criptografia: [**Kleopatra**](https://apps.kde.org/es/kleopatra/), [**OpenKeychain**](https://www.openkeychain.org/), [**Secret Space Encryptor**](https://paranoiaworks.mobi/sse/).
+Criptografia: <a href="https://apps.kde.org/es/kleopatra/" target="_blank">**Kleopatra**</a>, <a href="https://www.openkeychain.org" target="_blank">**OpenKeychain**</a>, <a href="https://paranoiaworks.mobi/sse/" target="_blank">**Secret Space Encryptor**</a>.
 
-Notas: [**Nextcloud Notes**](https://apps.nextcloud.com/apps/notes), [**Keep**](https://keep.google.com/), [**Simplenote**](https://simplenote.com/), [**Standard Notes**](https://standardnotes.com/), [**Notally**](https://github.com/OmGodse/Notally).
+Notas: <a href="https://apps.nextcloud.com/apps/notes" target="_blank">**Nextcloud Notes**</a>, <a href="https://keep.google.com" target="_blank">**Keep**</a>, <a href="https://simplenote.com" target="_blank">**Simplenote**</a>, <a href="https://standardnotes.com" target="_blank">**Standard Notes**</a>, <a href="https://github.com/OmGodse/Notally" target="_blank">**Notally**</a>.
 
-Calendario: [**Proton Calendar**](https://proton.me).
+Calendario: <a href="https://proton.me" target="_blank">**Proton Calendar**</a>.
 
-Tareas: [**Taskito**](https://taskito.io/).
+Tareas: <a href="https://taskito.io" target="_blank">**Taskito**</a>.
 
-Marcadores: [**Raindrop**](https://raindrop.io).
+Marcadores: <a href="https://raindrop.io" target="_blank">**Raindrop**</a>.
 
-Podcast: [**Fountain**](https://fountain.fm/), [**AntennaPod**](https://antennapod.org/).
+Podcast: <a href="https://fountain.fm" target="_blank">**Fountain**</a>, <a href="https://antennapod.org" target="_blank">**AntennaPod**</a>.
 
-Otros: [**AIMP**](https://www.aimp.ru/), [**Feeder**](https://github.com/spacecowboy/feeder), [**Organic Maps**](https://organicmaps.app/), [**Cx File Explorer**](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [**F-Droid**](https://f-droid.org/), [**DeepL**](https://www.deepl.com), [**NewPipe**](https://newpipe.net/), [**Disroot**](https://disroot.org), [**Wallet**](https://budgetbakers.com/).
+Otros: <a href="https://www.aimp.ru" target="_blank">**AIMP**</a>, <a href="https://github.com/spacecowboy/feeder" target="_blank">**Feeder**</a>, <a href="https://organicmaps.app" target="_blank">**Organic Maps**</a>, <a href="https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer" target="_blank">**Cx File Explorer**</a>, <a href="https://f-droid.org" target="_blank">**F-Droid**</a>, <a href="https://www.deepl.com" target="_blank">**DeepL**</a>, <a href="https://newpipe.net" target="_blank">**NewPipe**</a>, <a href="https://disroot.org" target="_blank">**Disroot**</a>, <a href="https://budgetbakers.com" target="_blank">**Wallet**</a>.
 
 ---
