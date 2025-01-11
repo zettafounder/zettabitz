@@ -47,3 +47,25 @@ Podcast: <a href="https://fountain.fm" target="_blank">**Fountain**</a>, <a href
 Otros: <a href="https://www.aimp.ru" target="_blank">**AIMP**</a>, <a href="https://github.com/spacecowboy/feeder" target="_blank">**Feeder**</a>, <a href="https://organicmaps.app" target="_blank">**Organic Maps**</a>, <a href="https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer" target="_blank">**Cx File Explorer**</a>, <a href="https://f-droid.org" target="_blank">**F-Droid**</a>, <a href="https://www.deepl.com" target="_blank">**DeepL**</a>, <a href="https://newpipe.net" target="_blank">**NewPipe**</a>, <a href="https://disroot.org" target="_blank">**Disroot**</a>, <a href="https://budgetbakers.com" target="_blank">**Wallet**</a>.
 
 ---
+
+## Te puede interesar
+
+[Crear USB booteable de linux usando el comando dd](https://zettafounder.github.io/zettabitz/notes/2024-04-17-comando-dd.html)
+
+[Elimina el bloatware de tu android con adb shell](https://zettafounder.github.io/zettabitz/notes/2022-01-07-eliminar-apps-preinstaladas-android.html)
+
+## Últimos posts del blog
+
+{% for post in site.posts  | limit: 3 %}
+  <p>{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+      {{ post.date | date: date_format }}
+    </time>
+    {%- if post.modified_date -%}
+      ~ 
+      {%- assign mdate = post.modified_date | date_to_xmlschema -%}
+      <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+        {{ mdate | date: date_format }}
+      </time>
+    {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></p> 
+{% endfor %}
