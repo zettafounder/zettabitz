@@ -13,7 +13,7 @@ title: Blog
       <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
         {{ mdate | date: date_format }}
       </time>
-    {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></p> 
+    {%- endif -%} - <a href=".{{ post.url }}"><strong>{{ post.title }}</strong></a></p> 
 {% endfor %}
 
 <a rel="me" href="https://zettafounder.github.io/zettabitz/feed.xml">RSS</a>
