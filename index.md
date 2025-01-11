@@ -14,16 +14,36 @@ OS: [**EndeavourOS**](https://endeavouros.com/), [**Debian**](https://www.debian
 
 Android: [**LineageOS**](https://lineageos.org/).
 
-Mensajería: Signal, Session, SimpleX, Briar, Cwtch, Telegram, Wire, Threema, Keybase, Element, Conversations.
+Mensajería: [**Signal**](https://signal.org/), [**Session**](https://getsession.org/), [**SimpleX**](https://simplex.chat/), [**Briar**](https://briarproject.org/), [**Cwtch**](https://cwtch.im/), [**Telegram**](telegram.org), [**Wire**](wire.com), [**Threema**](https://threema.ch), [**Keybase**](keybase.io), [**Element**](element.io), [**Conversations**](https://conversations.im/).
 
-Nube: Disroot, Proton Drive, Nextcloud.
+Nube: [**Proton Drive**](proton.me), [**Nextcloud**](https://nextcloud.com/).
 
-Bitcoin Wallets: Electrum, Green, Blue, Phoenix, WalletOfSatoshi.
+Navegador web: [**Firefox**](https://www.mozilla.org/), [**Tor Browser**](https://www.torproject.org/).
 
-Email: Protonmail, Thunderbird.
+Buscador: [**DuckDuckGo**](https://duckduckgo.com).
 
-VPN: Proton VPN.
+Bitcoin Wallets: [**Electrum**](https://electrum.org/), [**Green**](https://blockstream.com/green/), [**BlueWallet**](https://bluewallet.io/), [**Phoenix**](https://phoenix.acinq.co/), [**WalletOfSatoshi**](https://www.walletofsatoshi.com/).
 
-Nostr: YakiHonne, Fountain.
+Email: [**Proton Mail**](proton.me), [**Thunderbird**](https://www.thunderbird.net).
+
+VPN: [**Proton VPN**](proton.me).
+
+Nostr: [**YakiHonne**](https://www.yakihonne.com/yakihonne-mobile-app).
+
+Contraseñas: [**Aegis**](https://getaegis.app/), [**Proton Pass**](proton.me), [**KeePass**](https://keepass.info/download.html).
+
+Criptografia: [**Kleopatra**](https://apps.kde.org/es/kleopatra/), [**OpenKeychain**](https://www.openkeychain.org/), [**Secret Space Encryptor**](https://paranoiaworks.mobi/sse/).
+
+Notas: [**Nextcloud Notes**](https://apps.nextcloud.com/apps/notes), [**Keep**](https://keep.google.com/), [**Simplenote**](https://simplenote.com/), [**Standard Notes**](https://standardnotes.com/), [**Notally**](https://github.com/OmGodse/Notally).
+
+Calendario: [**Proton Calendar**](proton.me).
+
+Tareas: [**Taskito**](https://taskito.io/).
+
+Marcadores: [**Raindrop**](raindrop.io).
+
+Podcast: [**Fountain**](https://fountain.fm/), [**AntennaPod**](https://antennapod.org/).
+
+Otros: [**AIMP**](https://www.aimp.ru/), [**Feeder**](https://github.com/spacecowboy/feeder), [**Organic Maps**](https://organicmaps.app/), [**Cx File Explorer**](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [**F-Droid**](https://f-droid.org/), [**DeepL**](https://www.deepl.com), [**NewPipe**](https://newpipe.net/), [**Disroot**](disroot.org), [**Wallet**](https://budgetbakers.com/).
 
 ---
