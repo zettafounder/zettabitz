@@ -71,7 +71,7 @@ Otros: <a href="https://www.aimp.ru" target="_blank">**AIMP**</a>, <a href="http
       <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
         {{ mdate | date: date_format }}
       </time>
-    {%- endif -%} - **<a href=".{{ post.url }}">{{ post.title }}</a>**</p> 
+    {%- endif -%} - <a href=".{{ post.url }}"><strong>{{ post.title }}</strong></a></p> 
 {% endfor %}
 
 ---
