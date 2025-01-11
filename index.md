@@ -47,12 +47,16 @@ Podcast: <a href="https://fountain.fm" target="_blank">**Fountain**</a>, <a href
 Otros: <a href="https://www.aimp.ru" target="_blank">**AIMP**</a>, <a href="https://github.com/spacecowboy/feeder" target="_blank">**Feeder**</a>, <a href="https://organicmaps.app" target="_blank">**Organic Maps**</a>, <a href="https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer" target="_blank">**Cx File Explorer**</a>, <a href="https://f-droid.org" target="_blank">**F-Droid**</a>, <a href="https://www.deepl.com" target="_blank">**DeepL**</a>, <a href="https://newpipe.net" target="_blank">**NewPipe**</a>, <a href="https://disroot.org" target="_blank">**Disroot**</a>, <a href="https://budgetbakers.com" target="_blank">**Wallet**</a>.
 
 ---
+<br>
 
 ## Te puede interesar
 
 [Crear USB booteable de linux usando el comando dd](https://zettafounder.github.io/zettabitz/notes/2024-04-17-comando-dd.html)
 
 [Elimina el bloatware de tu android con adb shell](https://zettafounder.github.io/zettabitz/notes/2022-01-07-eliminar-apps-preinstaladas-android.html)
+
+---
+<br>
 
 ## Últimos posts del blog
 
@@ -69,3 +73,6 @@ Otros: <a href="https://www.aimp.ru" target="_blank">**AIMP**</a>, <a href="http
       </time>
     {%- endif -%} - <a href=".{{ post.url }}">{{ post.title }}</a></p> 
 {% endfor %}
+
+---
+<br>
