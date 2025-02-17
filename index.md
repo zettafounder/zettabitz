@@ -35,6 +35,3 @@ OS: <a href="https://endeavouros.com" target="_blank">**EndeavourOS**</a>, <a hr
       </time>
     {%- endif -%} - <a href=".{{ post.url }}"><strong>{{ post.title }}</strong></a></div> 
 {% endfor %}
-
----
-<br>
